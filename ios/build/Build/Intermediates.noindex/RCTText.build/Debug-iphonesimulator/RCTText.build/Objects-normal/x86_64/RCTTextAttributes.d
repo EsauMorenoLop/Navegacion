@@ -1,0 +1,17 @@
+dependencies: \
+  /Users/usuario/Documents/Proyectos/Navegacion/node_modules/react-native/Libraries/Text/RCTTextAttributes.m \
+  /Users/usuario/Documents/Proyectos/Navegacion/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/usuario/Documents/Proyectos/Navegacion/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
